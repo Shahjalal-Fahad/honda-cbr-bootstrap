@@ -1,0 +1,43 @@
+/* para-text-color */
+
+header{
+    color: #FFFFFF;
+    background-color:#264653 ;
+}
+.modal-text{
+    color: gray;
+}
+.header-button {
+    background-color:#E77C40 ;
+    color: #FFFFFF;
+    padding: 10px;
+    border-radius: 5px;
+}
+.para-text-color{
+color: #6C6C6C;
+}
+
+/* bike */
+.bike img {
+    filter: grayscale(100%);
+  }
+.client img{
+    width:149px;
+    height:149px ;
+}
+/* icon css */
+.fa-star{
+color: #E77C40;
+font-size: 18px;
+}
+/* client-name */
+.client-name{
+    color:#23A6F0 ;
+}
+
+span{
+    color: #E76F51;
+}
+/* .collapse-color{
+    color: black;
+} */
